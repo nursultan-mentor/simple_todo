@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-ic(&mfcclr^_(wv+-sf^n_wx(_(#)8&t^t!oot&k&0-foo8ki!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'codify-todo.herokuapp.com']
 
