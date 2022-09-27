@@ -2,3 +2,5 @@ venv/
 todo/__pycache__/
 todo_proj/__pycache__/
 .idea/
+Procfile
+staticfiles/
